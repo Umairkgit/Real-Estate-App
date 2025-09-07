@@ -73,12 +73,6 @@ The app allows users to browse, search, and save properties for rent or sale.
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
-### 🔍 Property Search
-![Property Search](screenshots/search.png)
-
-### 📄 Property Details
-![Property Details](screenshots/details.png)
-
 ### 🔑 Login / Register
 ![Login](screenshots/login.png)
 
