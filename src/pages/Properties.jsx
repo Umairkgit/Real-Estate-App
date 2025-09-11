@@ -73,8 +73,7 @@ const Properties = () => {
 
               {/* Description */}
               <p className="text-gray-800 text-sm mb-4 leading-relaxed">
-                {property.description ||
-                  "Spacious 3BHK apartment in a prime location with modern amenities."}
+                  "Spacious 3BHK apartment in a prime location with modern amenities."
               </p>
 
               {/* Price + Button */}

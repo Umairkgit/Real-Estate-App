@@ -26,9 +26,9 @@ const Navbar = () => {
         <NavLink to="/"><p>Home</p></NavLink>
         <NavLink to="/buy"><p>Buy</p></NavLink>
         <NavLink to="/rent"><p>Rent</p></NavLink>
-        <NavLink to="/sell"><p>Sell</p></NavLink>
-        <NavLink to="/about-us"><p>About Us</p></NavLink>
-        <NavLink to="/contact-us"><p>Contact Us</p></NavLink>
+        <NavLink to=""><p>Sell</p></NavLink>
+        <NavLink to=""><p>About Us</p></NavLink>
+        <NavLink to=""><p>Contact Us</p></NavLink>
       </div>
 
       {/* Desktop Right side: auth buttons */}
